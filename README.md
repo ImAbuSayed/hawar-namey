@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hawar-namey/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Hawar Namey](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hawar-namey/) |
+| **Get License** | [Music Rights & Licensing for Hawar Namey](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hawar-namey/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> হাওয়ার বুকে লিখলাম আমি তোমার নামের গান
+> অচিন দেশে তোমার কাছে ছুটছে আমার প্রাণ
+> রাতের শেষে জোনাক হয়ে জ্বলবো তোমার পাশে
+> শুকতারাটি সাক্ষী রবে আমার এ বিশ্বাসে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

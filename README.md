@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hawar-namey/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Hawar Namey](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hawar-namey/) |
+| **Get License** | [Secure Licensing Rights for Hawar Namey](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hawar-namey/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3083cd4089c7609f56ddb827197e7d64c958a704f0c7c0dd1da1cc42b45d005f` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
